@@ -1,0 +1,7 @@
+dataset/
+├── cardboard/
+├── glass/
+├── metal/
+├── paper/
+├── plastic/
+├── organic/
